@@ -1,0 +1,38 @@
+\ProvidesPackage{preamble}
+
+% Pacotes básicos de imagem e matemática
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{graphicx, float}
+
+% Configurações da página
+\usepackage[a4paper, margin=2cm, heightrounded]{geometry}
+\usepackage{setspace}
+\setstretch{1.5}
+\setlength{\parskip}{2.0pt}
+
+% Alinhamento de texto
+\usepackage{ragged2e}
+\justifying
+
+% Alinhamento do título
+\usepackage{titling}
+\setlength{\droptitle}{-1cm}
+\pretitle{\begin{center}\LARGE\bfseries\vspace{0pt}}
+\posttitle{\par\end{center}\vspace{0pt}}
+\preauthor{\begin{center}\Large\vspace{0pt}}
+\postauthor{\end{center}\vspace{0pt}}
+\predate{\begin{center}}\vspace{0pt}
+\postdate{\end{center}\vspace{0pt}}
+
+% Português
+\usepackage[portuguese]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{blindtext}
+\usepackage{hyphsubst}
+\usepackage[affil-it]{authblk}
+\usepackage{newtxtext,newtxmath}
+\usepackage[style=abnt, backend=biber]{biblatex}
+\usepackage[T1]{fontenc}
+
+\usepackage[hidelinks,colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+% \DeclareFieldFormat{url}{\bibstring{urlfrom}\addcolon\addspace\normalfont\url{#1}}
