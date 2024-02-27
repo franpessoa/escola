@@ -2442,11 +2442,15 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">referencias.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">vlaardingerbroek2010abiogenesis</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">buckley2020fungal</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">Benedict2016</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">buckley2020fungal</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Benedict2016</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">bsfi2019pasteur</bcf:citekey>
+    <bcf:citekey order="1" intorder="2">enwiki:1195385720</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">vlaardingerbroek2010abiogenesis</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">buckley2020fungal</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Benedict2016</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">coelho_milagres_martins_azeredo_santana_2010</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">balbani2001contaminaccao</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">buckley2020fungal</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Benedict2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

@@ -19,6 +19,69 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{bsfi2019pasteur}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=fef6d6eeaf26bdbf0cb2cd6f8401eee5}{%
+           family={Immunology},
+           familyi={I\bibinitperiod},
+           given={British\bibnamedelima Society},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{fef6d6eeaf26bdbf0cb2cd6f8401eee5}
+      \strng{fullhash}{fef6d6eeaf26bdbf0cb2cd6f8401eee5}
+      \strng{bibnamehash}{fef6d6eeaf26bdbf0cb2cd6f8401eee5}
+      \strng{editorbibnamehash}{fef6d6eeaf26bdbf0cb2cd6f8401eee5}
+      \strng{editornamehash}{fef6d6eeaf26bdbf0cb2cd6f8401eee5}
+      \strng{editorfullhash}{fef6d6eeaf26bdbf0cb2cd6f8401eee5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{Arquivado do original em 11 de agosto de 2019}
+      \field{title}{Pasteur's "col de cygnet" (1859)}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://web.archive.org/web/20190811175656/https://www.immunology.org/pasteurs-col-de-cygnet-1859
+      \endverb
+      \verb{url}
+      \verb https://web.archive.org/web/20190811175656/https://www.immunology.org/pasteurs-col-de-cygnet-1859
+      \endverb
+    \endentry
+    \entry{enwiki:1195385720}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{(Versão em inglês utilizada pois faltavam fontes na brasileira)}
+      \field{title}{Spontaneous generation --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Spontaneous_generation&oldid=1195385720
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Spontaneous_generation&oldid=1195385720
+      \endverb
+    \endentry
     \entry{vlaardingerbroek2010abiogenesis}{article}{}
       \name{author}{1}{}{%
         {{hash=e749ec5516c90e7e57df4816e779a095}{%
@@ -36,8 +99,8 @@
       \strng{authorbibnamehash}{e749ec5516c90e7e57df4816e779a095}
       \strng{authornamehash}{e749ec5516c90e7e57df4816e779a095}
       \strng{authorfullhash}{e749ec5516c90e7e57df4816e779a095}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Evolution: Education and Outreach}
@@ -64,8 +127,8 @@
       \strng{authorbibnamehash}{15133288e6c018ffc3e781edd400727f}
       \strng{authornamehash}{15133288e6c018ffc3e781edd400727f}
       \strng{authorfullhash}{15133288e6c018ffc3e781edd400727f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Academy of Microbiology Colloquia Reports}
@@ -99,14 +162,107 @@
       \strng{authorbibnamehash}{5dae49b43c1db34184c78505b6d786b5}
       \strng{authornamehash}{5dae49b43c1db34184c78505b6d786b5}
       \strng{authorfullhash}{5dae49b43c1db34184c78505b6d786b5}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{via NLM}
       \field{journaltitle}{Foodborne Pathogens and Disease}
       \field{title}{Invasive Fungal Infections Acquired from Contaminated Food or Nutritional Supplements: A Review of the Literature}
       \field{year}{2016}
+    \endentry
+    \entry{coelho_milagres_martins_azeredo_santana_2010}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d9d8b365314c276f272b01c08098b901}{%
+           family={Coelho},
+           familyi={C\bibinitperiod},
+           given={Ana\bibnamedelimb Íris\bibnamedelima Mendes},
+           giveni={A\bibinitperiod\bibinitdelim Í\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=eec1dc01f83ae336569fa634931df68a}{%
+           family={Milagres},
+           familyi={M\bibinitperiod},
+           given={Regina\bibnamedelimb Célia\bibnamedelimb Rodrigues\bibnamedelima Miranda},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b60a68b59a2831642f33b9bde7263a9e}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Joice\bibnamedelimb de\bibnamedelimb Fátima\bibnamedelima Laureano},
+           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=23d0dbe812c694b6b98777ed76ed890f}{%
+           family={Azeredo},
+           familyi={A\bibinitperiod},
+           given={Raquel\bibnamedelimb Monteiro\bibnamedelimb Cordeiro\bibnamedelima de},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=7a3fce61572b67eb04f8167fa2695263}{%
+           family={Santana},
+           familyi={S\bibinitperiod},
+           given={Ângela\bibnamedelimb Maria\bibnamedelima Campos},
+           giveni={Â\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ABRASCO - Associação Brasileira de Saúde Coletiva}%
+      }
+      \strng{namehash}{323cfa52787a23209b8222aefb8d5ab1}
+      \strng{fullhash}{5dea76a38d4110ee4805b19c0646506a}
+      \strng{bibnamehash}{323cfa52787a23209b8222aefb8d5ab1}
+      \strng{authorbibnamehash}{323cfa52787a23209b8222aefb8d5ab1}
+      \strng{authornamehash}{323cfa52787a23209b8222aefb8d5ab1}
+      \strng{authorfullhash}{5dea76a38d4110ee4805b19c0646506a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1413-8123}
+      \field{journaltitle}{Ciência e Saúde Coletiva}
+      \field{month}{6}
+      \field{title}{Contaminação microbiológica de ambientes e de superfícies em restaurantes comerciais}
+      \field{volume}{15}
+      \field{year}{2010}
+      \field{pages}{1597\bibrangedash 1606}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://www.scielo.br/j/csc/a/4mgWK8HjydxjrGdtMyHQpjg
+      \endverb
+      \verb{url}
+      \verb https://www.scielo.br/j/csc/a/4mgWK8HjydxjrGdtMyHQpjg
+      \endverb
+    \endentry
+    \entry{balbani2001contaminaccao}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d757a018724880330510c86328a23b64}{%
+           family={Balbani},
+           familyi={B\bibinitperiod},
+           given={Aracy\bibnamedelimb Pereira\bibnamedelima Silveira},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1e09ab4c4d2822c7dbadc0e9a723c15f}{%
+           family={Butugan},
+           familyi={B\bibinitperiod},
+           given={Ossamu},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP, Brasil}%
+      }
+      \list{publisher}{1}{%
+        {Disciplina de Otorrinolaringologia da Faculdade de Medicina da Universidade de São Paulo}%
+      }
+      \strng{namehash}{0c2b476d3f7e6d0c1d9fe3b402d9ea9b}
+      \strng{fullhash}{0c2b476d3f7e6d0c1d9fe3b402d9ea9b}
+      \strng{bibnamehash}{0c2b476d3f7e6d0c1d9fe3b402d9ea9b}
+      \strng{authorbibnamehash}{0c2b476d3f7e6d0c1d9fe3b402d9ea9b}
+      \strng{authornamehash}{0c2b476d3f7e6d0c1d9fe3b402d9ea9b}
+      \strng{authorfullhash}{0c2b476d3f7e6d0c1d9fe3b402d9ea9b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatria}
+      \field{number}{4}
+      \field{title}{Contaminação biológica de alimentos}
+      \field{volume}{23}
+      \field{year}{2001}
+      \field{pages}{320\bibrangedash 328}
+      \range{pages}{9}
     \endentry
   \enddatalist
 \endrefsection
