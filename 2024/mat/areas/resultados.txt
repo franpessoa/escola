@@ -1,0 +1,10 @@
+ -> Teste 1
+alvo: 50.35m² alvo iden. : 50.35m²
+resultados:
+construtora A: 1 apto. R$9622.40 iden.
+construtora B: 71 apto. R$937097.60 iden.
+ -> Teste 2
+alvo: 50.35m² alvo iden. : 53.00m²
+resultados:
+construtora A: 1 apto. R$26073.60 iden.
+construtora B: 71 apto. R$2105132.80 iden.
