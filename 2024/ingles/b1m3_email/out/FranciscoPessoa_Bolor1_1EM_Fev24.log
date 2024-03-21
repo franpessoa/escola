@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.2.27)  29 FEB 2024 14:44
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.2.27)  12 MAR 2024 14:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -43,8 +43,8 @@ ing layer <2023-02-22>
 Inserting `tracingstacklevels' in `input_level_string'.
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from /home/cisco/.texlive/texmf-var
 /luatex-cache/generic/names/luaotfload-names.luc.gz)
 \c@part=\count183
@@ -1278,7 +1278,7 @@ pt=latn;language=dflt;-ss05;+tlig;+tnum;+lnum;"
 pt=latn;language=dflt;-ss05;+tlig;+tnum;+lnum;+smcp;+pcap;"
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 10.
+(Font)              scaled to size 10.0pt on input line 8.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
@@ -1289,62 +1289,62 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./out/FranciscoPessoa_Bolor1_1EM_Fev24.aux)
 \openout1 = FranciscoPessoa_Bolor1_1EM_Fev24.aux
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 10.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 8.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 10.
+ 8.
 
 (/usr/share/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-0.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 8.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-10.
+8.
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 8.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 10.
+ 8.
 
 (/usr/share/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 8.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 10.
+e 8.
 
 (/usr/share/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Command `\dddot' is already robust on input line 10.
-LaTeX Info: Command `\ddddot' is already robust on input line 10.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Info: Command `\dddot' is already robust on input line 8.
+LaTeX Info: Command `\ddddot' is already robust on input line 8.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1385,18 +1385,18 @@ Package caption Info: End \AtBeginDocument code.
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69687pt
-* \textheight=737.0pt
+* \textheight=730.0pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1548,148 +1548,20 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'FranciscoPessoa_Bolor1_1EM_Fev24.bbl' found.
 
 (./out/FranciscoPessoa_Bolor1_1EM_Fev24.bbl)
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
-Package hyperref Info: Link coloring ON on input line 10.
+Package biblatex Info: Reference section=0 on input line 8.
+Package biblatex Info: Reference segment=0 on input line 8.
+Package hyperref Info: Link coloring ON on input line 8.
 
 (./out/FranciscoPessoa_Bolor1_1EM_Fev24.out)
 (./out/FranciscoPessoa_Bolor1_1EM_Fev24.out)
 \@outlinefile=\write5
 
 \openout5 = FranciscoPessoa_Bolor1_1EM_Fev24.out
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 12.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 12.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 12.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
-(Font)              scaled to size 17.28pt on input line 12.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 13.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 17.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 17.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 20.
-<img/1280px-Coldecygne.svg.png, id=70, 1284.8pt x 861.2175pt>
-File: img/1280px-Coldecygne.svg.png Graphic file (type png)
-<use img/1280px-Coldecygne.svg.png>
-Package luatex.def Info: img/1280px-Coldecygne.svg.png  used on input line 24.
-(luatex.def)             Requested size: 193.47578pt x 129.6764pt.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
-[1<./img/1280px-Coldecygne.svg.png>]
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 54.
- [2]
-<img/p1234_inicial.jpeg, id=93, 903.375pt x 1305.87875pt>
-File: img/p1234_inicial.jpeg Graphic file (type jpg)
-<use img/p1234_inicial.jpeg>
-Package luatex.def Info: img/p1234_inicial.jpeg  used on input line 66.
-(luatex.def)             Requested size: 241.84843pt x 349.60306pt.
-<img/p1_obs1.jpeg, id=94, 903.375pt x 904.37875pt>
-File: img/p1_obs1.jpeg Graphic file (type jpg)
-<use img/p1_obs1.jpeg>
-Package luatex.def Info: img/p1_obs1.jpeg  used on input line 79.
-(luatex.def)             Requested size: 217.66211pt x 217.89711pt.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 79.
-<img/p2_obs1.jpeg, id=95, 903.375pt x 903.375pt>
-File: img/p2_obs1.jpeg Graphic file (type jpg)
-<use img/p2_obs1.jpeg>
-Package luatex.def Info: img/p2_obs1.jpeg  used on input line 83.
-(luatex.def)             Requested size: 217.66211pt x 217.65527pt.
-<img/p3_obs1.jpeg, id=96, 903.375pt x 947.54pt>
-File: img/p3_obs1.jpeg Graphic file (type jpg)
-<use img/p3_obs1.jpeg>
-Package luatex.def Info: img/p3_obs1.jpeg  used on input line 91.
-(luatex.def)             Requested size: 217.66211pt x 228.29619pt.
-<img/p4_obs1.jpeg, id=97, 903.375pt x 903.375pt>
-File: img/p4_obs1.jpeg Graphic file (type jpg)
-<use img/p4_obs1.jpeg>
-Package luatex.def Info: img/p4_obs1.jpeg  used on input line 95.
-(luatex.def)             Requested size: 217.66211pt x 217.65527pt.
- [3<./img/p1234_inicial.jpeg>]
-<img/p1_obs2.jpeg, id=103, 833.1125pt x 833.1125pt>
-File: img/p1_obs2.jpeg Graphic file (type jpg)
-<use img/p1_obs2.jpeg>
-Package luatex.def Info: img/p1_obs2.jpeg  used on input line 110.
-(luatex.def)             Requested size: 217.66211pt x 217.65926pt.
-<img/p2_obs2.jpeg, id=104, 793.96625pt x 793.96625pt>
-File: img/p2_obs2.jpeg Graphic file (type jpg)
-<use img/p2_obs2.jpeg>
-Package luatex.def Info: img/p2_obs2.jpeg  used on input line 114.
-(luatex.def)             Requested size: 217.66211pt x 217.65689pt.
-<img/p3_obs2.jpeg, id=105, 753.81625pt x 697.60625pt>
-File: img/p3_obs2.jpeg Graphic file (type jpg)
-<use img/p3_obs2.jpeg>
-Package luatex.def Info: img/p3_obs2.jpeg  used on input line 123.
-(luatex.def)             Requested size: 217.66211pt x 201.42776pt.
-<img/p4_obs2.jpeg, id=106, 903.375pt x 942.52126pt>
-File: img/p4_obs2.jpeg Graphic file (type jpg)
-<use img/p4_obs2.jpeg>
-Package luatex.def Info: img/p4_obs2.jpeg  used on input line 127.
-(luatex.def)             Requested size: 217.66211pt x 227.087pt.
- [4<./img/p1_obs1.jpeg><./img/p2_obs1.jpeg><./img/p3_obs1.jpeg><./img/p4_obs1.jp
-eg>]
-<img/mic_1.jpeg, id=114, 890.32625pt x 890.32625pt>
-File: img/mic_1.jpeg Graphic file (type jpg)
-<use img/mic_1.jpeg>
-Package luatex.def Info: img/mic_1.jpeg  used on input line 140.
-(luatex.def)             Requested size: 217.66211pt x 217.66315pt.
-<img/mic_2.jpeg, id=115, 963.6pt x 964.60374pt>
-File: img/mic_2.jpeg Graphic file (type jpg)
-<use img/mic_2.jpeg>
-Package luatex.def Info: img/mic_2.jpeg  used on input line 143.
-(luatex.def)             Requested size: 217.66211pt x 217.88016pt.
-
-[5<./img/p1_obs2.jpeg><./img/p2_obs2.jpeg><./img/p3_obs2.jpeg><./img/p4_obs2.jpe
-g>] [6<./img/mic_1.jpeg><./img/mic_2.jpeg>]
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
-e 166.
-
-(/usr/share/texmf-dist/tex/latex/newtx/ot1minntx.fd
-File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 166
-.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 166
-.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-166.
-
-(/usr/share/texmf-dist/tex/latex/newtx/untxmia.fd
-File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-166.
-
-(/usr/share/texmf-dist/tex/latex/newtx/untxsym.fd
-File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-166.
-
-(/usr/share/texmf-dist/tex/latex/newtx/untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-) [7] [8]
 (./out/FranciscoPessoa_Bolor1_1EM_Fev24.aux)
 Package rerunfilecheck Info: File `FranciscoPessoa_Bolor1_1EM_Fev24.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 757118421BD95AE9FFE90937783847A0;2150.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'FranciscoPessoa_Bolor1_1EM_Fev24.run.
 xml'.
 
@@ -1697,25 +1569,20 @@ xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 37039 strings out of 478285
+ 36221 strings out of 478285
  125086,1977958 words of node,token memory allocated
- 743 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 18 attribute, 88 glue_spec
-, 11 attribute_list, 2 write, 2 pdf_action nodes
-   avail lists: 1:1,2:844,3:525,4:98,5:470,6:56,7:7568,8:97,9:362,10:74,11:818,1
-2:1
- 55519 multiletter control sequences out of 65536+600000
- 103 fonts using 10070255 bytes
- 120i,9n,152p,942b,6191s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></usr/share
-/texmf-dist/fonts/opentype/public/newtx/TeXGyreTermesX-Italic.otf></usr/share/te
-xmf-dist/fonts/opentype/public/newtx/TeXGyreTermesX-Regular.otf></usr/share/texm
-f-dist/fonts/opentype/public/newtx/TeXGyreTermesX-Bold.otf>
-Output written on FranciscoPessoa_Bolor1_1EM_Fev24.pdf (9 pages, 2045307 bytes).
+ 742 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 18 attribute, 85 glue_spec
+, 13 attribute_list, 5 write, 1 pdf_dest, 1 pdf_colorstack nodes
+   avail lists: 1:2,2:55,3:1,4:3,5:10,6:1,7:16,9:1
+ 54923 multiletter control sequences out of 65536+600000
+ 26 fonts using 3104175 bytes
+ 120i,1n,152p,676b,6191s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+warning  (pdf backend): no pages of output.
 
-PDF statistics: 184 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 131072)
- 120 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 6 PDF objects out of 1000 (max. 8388607)
+ 4 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

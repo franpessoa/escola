@@ -1,0 +1,9 @@
+{"rule":"HUNSPELL_RULE","sentence":"^\\QAndré Tahio, Bianca Bueno, Francisco Pessoa, Tomás ..\\E$"}
+{"rule":"HUNSPELL_RULE","sentence":"^\\QAndré Tahio, Bianca Bueno, Francisco Pessoa, Tomás 1°EM — Turma A Trabalho sobre mitos — O mito de Ulisses\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpreamble\\E$"}
+{"rule":"PORTUGUESE_WORD_REPEAT_RULE","sentence":"^\\QUlisses como um ideal de ser humano Imperfeito Não é necessário olhar para Ulisses como o herói grego clássico — até porque a Odisseia foi escrita muito tempo antes da Grécia antiga - mas sim como uma metáfora para a experiência humana, de alguém que arma e cai em armadilhas, de alguém que tem que fazer decisões difíceis, e de alguém que pode, eventualmente, se deixar seduzir ou ter seu ego inflado Calipso Calipso é na história de Ulisses\\E$"}
+{"rule":"PORTUGUESE_WORD_REPEAT_RULE","sentence":"^\\QUlisses como um ideal de ser humano Imperfeito Não é necessário olhar para Ulisses como o herói grego clássico — até porque a Odisseia foi escrita muito tempo antes da Grécia antiga — mas sim como uma metáfora para a experiência humana, de alguém que arma e cai em armadilhas, de alguém que tem que fazer decisões difíceis, e de alguém que pode, eventualmente, se deixar seduzir ou ter seu ego inflado Calipso Calipso é na história de Ulisses\\E$"}
+{"rule":"GRAMMATICAL_DOUBLE_NEGATIVES","sentence":"^\\QNeste sentido, no começo ele não é alguém maduro\\E$"}
+{"rule":"HUNSPELL_RULE","sentence":"^\\QAndré Tahio, Bianca Bueno, Francisco Pessoa, Tomás Zamboni 1°EM — Turma A Trabalho sobre mitos — O mito de Ulisses\\E$"}
+{"rule":"QUE_SER_ESTAR_PARTPASSADO","sentence":"^\\QUm destino que está destinado a cumprir\\E$"}
+{"rule":"GENERAL_GENDER_AGREEMENT_ERRORS","sentence":"^\\QA prova cabal da humanidade recém-adquirida de Ulisses é a sua volta para casa, quando tem de provar sua identidade completamente despojado de quaisquer aspectos físicos ou sociais\\E$"}
