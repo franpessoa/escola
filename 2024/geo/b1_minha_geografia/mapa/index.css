@@ -1,0 +1,29 @@
+h1 {
+    font-family: "Battambang", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.m-azul {
+    color: rgb(138, 173, 244);
+}
+
+.m-vermelho {
+    color: rgb(237, 135, 150);
+}
+
+.m-verde {
+    color: rgb(166, 218, 149);
+}
+
+.m-roxo {
+    color: rgb(198, 160, 246);
+}
+
+h2 {
+    margin-top: auto;
+}

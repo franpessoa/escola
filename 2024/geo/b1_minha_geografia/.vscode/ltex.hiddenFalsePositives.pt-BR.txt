@@ -1,0 +1,4 @@
+{"rule":"HUNSPELL_RULE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Análise do espaço.\\E$"}
+{"rule":"GENTILICOS_LINGUAS","sentence":"^\\QMoro a um quarteirão de distância da entrada de pedestres da Vila Indiana, um bairro quase inteiramente formado por\\E$"}
+{"rule":"GENERAL_GENDER_AGREEMENT_ERRORS","sentence":"^\\QO espaço da Arco tem um fim social: ser uma escola.\\E$"}
+{"rule":"GENERAL_GENDER_AGREEMENT_ERRORS","sentence":"^\\QMas ainda o tenho com uma perspectiva dicotômica: no papel, seu projeto é ótimo, e conhecer uma nova perspectiva sobre a escola, diferente do que eu havia vivido durante quatro anos no Ítaca, foi essencial para mim.\\E$"}
