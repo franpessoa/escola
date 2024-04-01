@@ -1,4 +1,4 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'out/minha_geografia.blg'
-[49] biber:340> INFO - === Sun Mar 24, 2024, 11:45:37
-[60] Biber.pm:419> INFO - Reading 'out/minha_geografia.bcf'
+[47] biber:340> INFO - === Mon Apr  1, 2024, 20:51:48
+[58] Biber.pm:419> INFO - Reading 'out/minha_geografia.bcf'
