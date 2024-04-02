@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.2.27)  1 APR 2024 20:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.2.27)  2 APR 2024 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1324,10 +1324,14 @@ Package pdftex.def Info: ./img/Ponto.jpg  used on input line 22.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre
-/q-ts1.enc} <./img/Ponto.jpg>]
+/q-ts1.enc} <./img/Ponto.jpg>] [2]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
- [2] [3] [4] (out/minha_geografia.aux)
+(Font)              scaled to size 12.0pt on input line 43.
+File: ./img/Ponto.jpg Graphic file (type jpg)
+<use ./img/Ponto.jpg>
+Package pdftex.def Info: ./img/Ponto.jpg  used on input line 46.
+(pdftex.def)             Requested size: 483.69687pt x 272.18076pt.
+ [3] [4] (out/minha_geografia.aux)
 Package rerunfilecheck Info: File `minha_geografia.out' has not changed.
 (rerunfilecheck)             Checksum: 80F5953C7E25CF7C868CF91C3085607D;2874.
 Package logreq Info: Writing requests to 'minha_geografia.run.xml'.
@@ -1335,8 +1339,8 @@ Package logreq Info: Writing requests to 'minha_geografia.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26450 strings out of 477965
- 462061 string characters out of 5839349
+ 26451 strings out of 477965
+ 462077 string characters out of 5839349
  1858388 words of memory out of 5000000
  46182 multiletter control sequences out of 15000+600000
  548844 words of font info for 73 fonts, out of 8000000 for 9000
@@ -1345,10 +1349,10 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf
 -dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/newtx/ztmb.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on out/minha_geografia.pdf (4 pages, 4017611 bytes).
+Output written on out/minha_geografia.pdf (4 pages, 4017827 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
