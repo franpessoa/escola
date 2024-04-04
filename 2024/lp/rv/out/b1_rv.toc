@@ -1,0 +1,35 @@
+\babel@toc {portuguese}{}\relax 
+\contentsline {section}{\numberline {1}LP}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Linguagem e língua}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Teoria dos signos, de Saussure}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Definição}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Arbitrariedade e caráter convencional do signo}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Linearidade}{2}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Elementos da comunicação, de Jakobson}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Exemplos}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Enunciação, enunciado e conhecimentos}{4}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Funções da linguagem, função emotiva e referencial}{4}{subsubsection.1.3.3}%
+\contentsline {paragraph}{Função emotiva}{4}{section*.2}%
+\contentsline {paragraph}{Função referencial ou função denotativa}{4}{section*.3}%
+\contentsline {subsection}{\numberline {1.4}Referenciação}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Coesão e coerência}{5}{subsection.1.5}%
+\contentsline {paragraph}{Referenciação}{5}{section*.4}%
+\contentsline {paragraph}{Elipse}{5}{section*.5}%
+\contentsline {paragraph}{Uso de conjunções}{5}{section*.6}%
+\contentsline {paragraph}{Coesão lexical}{5}{section*.7}%
+\contentsline {section}{\numberline {2}Literatura}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Teoria Clássica dos Gêneros [literários]}{5}{subsection.2.1}%
+\contentsline {paragraph}{Lírico}{5}{section*.8}%
+\contentsline {paragraph}{Épico}{5}{section*.9}%
+\contentsline {paragraph}{Dramático}{6}{section*.10}%
+\contentsline {subparagraph}{Tragédia}{6}{section*.11}%
+\contentsline {subparagraph}{Comédias}{6}{section*.12}%
+\contentsline {subsubsection}{\numberline {2.1.1}Imperfeições}{6}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Trovadorismo}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Canções Líricas}{6}{subsubsection.2.2.1}%
+\contentsline {paragraph}{Canções de amor}{6}{section*.13}%
+\contentsline {paragraph}{Canções de Amigo}{6}{section*.14}%
+\contentsline {subsubsection}{\numberline {2.2.2}Canções satíricas}{7}{subsubsection.2.2.2}%
+\contentsline {paragraph}{Canções de escárnio}{7}{section*.15}%
+\contentsline {paragraph}{Canções de maldizer}{7}{section*.16}%
+\contentsline {subsection}{\numberline {2.3}Estrutura paralelística}{7}{subsection.2.3}%

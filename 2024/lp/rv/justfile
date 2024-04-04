@@ -1,0 +1,20 @@
+config := "./config.toml"
+default: main
+jobname := "$( tomlq jobname -f" + config + ")"
+outdir := "$( tomlq outdir -f" + config + ")"
+
+files := "main.tex"
+
+alias r := refs
+alias b := pdf
+
+main: pdf refs _pdf2
+
+refs:
+	biber {{outdir}}/{{jobname}}
+
+pdf:
+	lualatex --output-format=pdf --output-directory={{outdir}} --jobname={{jobname}} --synctex=1 --interaction=nonstopmode --file-line-error {{files}}
+
+_pdf2: pdf && pdf
+	lualatex --output-format=pdf --output-directory={{outdir}} --jobname={{jobname}} --synctex=1 --interaction=nonstopmode --file-line-error {{files}}
