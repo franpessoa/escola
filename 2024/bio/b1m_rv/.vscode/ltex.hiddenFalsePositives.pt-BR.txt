@@ -1,0 +1,2 @@
+{"rule":"HUNSPELL_RULE","sentence":"^\\QEm plantas leguminosas, onde uma bactéria fixadora de nitrogênio (Rizhobium sp.) entra nas suas raízes, fazendo um nódulo\\E$"}
+{"rule":"HUNSPELL_RULE","sentence":"^\\QRhizobium sp. expande para “Rhizobium species”, ou seja\\E$"}
